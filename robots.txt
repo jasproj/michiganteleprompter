@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://michiganteleprompter.com/sitemap.xml
+
+# Michigan Teleprompter - Professional Teleprompter Services
+# Part of the National Teleprompter Network
+# A Claduta Corp Company
